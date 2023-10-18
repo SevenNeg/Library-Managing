@@ -1,0 +1,30 @@
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\Library session6.exe
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\Library session6.deps.json
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\Library session6.runtimeconfig.json
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\Library session6.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\Library session6.pdb
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.csproj.AssemblyReference.cache
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library_session6.Add_a_book.resources
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library_session6.Add_a_user.resources
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library_session6.Main.resources
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.csproj.GenerateResource.cache
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.AssemblyInfoInputs.cache
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.AssemblyInfo.cs
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\refint\Library session6.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.pdb
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.genruntimeconfig.cache
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\ref\Library session6.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\RestSharp.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library session6.csproj.CopyComplete
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\obj\Debug\net7.0-windows\Library_session6.Reservation.resources
+C:\Users\NoteBook\Desktop\PR\Classes\Library session6\bin\Debug\net7.0-windows\jsonInf.json
